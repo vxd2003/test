@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Mar 2023 10:32:24 at http://admin.pixelstrap.com/xolo/theme/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://admin.pixelstrap.com/xolo/theme/index.html -O1 "D:\LUU C 2021\test chung khoan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:32:28	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): admin.pixelstrap.com/xolo/assets/css/color-1.css
+10:48:18	Error: 	Exit requested by shell or user
+10:48:23	Warning: 	File not added due to mirror cancel: admin.pixelstrap.com/xolo/assets/images/big-masonry/7.jpg
+10:48:23	Warning: 	File not added due to mirror cancel: admin.pixelstrap.com/xolo/assets/images/big-masonry/7.jpg
+10:48:23	Warning: 	File not added due to mirror cancel: admin.pixelstrap.com/xolo/assets/images/big-masonry/7.jpg
+10:48:23	Warning: 	File not added due to mirror cancel: admin.pixelstrap.com/xolo/assets/images/big-masonry/7.jpg
+10:48:27	Error: 	Exit requested by shell or user
+10:48:27	Error: 	"" (-1) at link admin.pixelstrap.com/xolo/theme/feather-icon.html (from admin.pixelstrap.com/xolo/theme/index.html)
+10:48:27	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 3 seconds : 453 links scanned, 442 files written (38411484 bytes overall) [21643423 bytes received at 22474 bytes/sec], 37781985 bytes transferred using HTTP compression in 439 files, ratio 54%, 3.4 requests per connection
+(4 errors, 5 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
